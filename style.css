@@ -1,0 +1,37 @@
+body {
+    font-family: Monospace;
+    background-color: #000;
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border: none;
+}
+
+#loading {
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#glFullscreen {
+    width: 100%;
+    height: 100vh;
+    min-width: 640px;
+    min-height: 360px;
+    position: relative;
+    overflow: hidden;
+}
+
+#modelviewer {
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: #000000;
+}

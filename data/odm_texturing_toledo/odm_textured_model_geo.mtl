@@ -1,0 +1,75 @@
+#
+# Wavefront material file
+#
+newmtl material0000
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0000_map_Kd.png
+###
+newmtl material0001
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0001_map_Kd.png
+###
+newmtl material0002
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0002_map_Kd.png
+###
+newmtl material0003
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0003_map_Kd.png
+###
+newmtl material0004
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0004_map_Kd.png
+###
+newmtl material0005
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0005_map_Kd.png
+###
+newmtl material0006
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0006_map_Kd.png
+###
+newmtl material0007
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+Ns 0
+illum 1
+map_Kd odm_textured_model_material0007_map_Kd.png
+###
